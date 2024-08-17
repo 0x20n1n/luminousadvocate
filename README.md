@@ -1,2 +1,2 @@
 # luminousadvocate
-storyboard iamge generator
+storyboard image generator
